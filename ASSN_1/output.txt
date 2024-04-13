@@ -1,0 +1,17 @@
+Albert Einstein	PERSON
+March 14, 1879	DATE
+Ulm	GPE
+the Kingdom of Württemberg	GPE
+the German Empire	GPE
+Einstein	PERSON
+Switzerland	GPE
+1895	DATE
+German	NORP
+Swiss	NORP
+1901	DATE
+1905	DATE
+four	CARDINAL
+1915	DATE
+Einstein	PERSON
+the Nobel Prize in Physics	WORK_OF_ART
+1921	DATE
